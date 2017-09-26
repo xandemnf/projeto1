@@ -1,4 +1,4 @@
-/*Reset*/
+﻿/*Reset*/
 *{margin:0; padding:0px; font-size:100%; font-family:'Bitter',serif; font-weight:normal; box-sizing: border-box; border:none; outline:none; } 
 img{max-width: 100%; }
 ul{list-style: none; }
@@ -9,7 +9,7 @@ p{font-size: 1em;color:#777; }
 
  /*Cabeçalho*/
  .cabecalho{
- 	width: 100%;
+ 	width: 80%;
  	float: left;
  	padding: 50px 8%;
  	background-color: #13c7ae;
